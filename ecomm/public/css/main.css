@@ -1,0 +1,20 @@
+
+.content {
+    text-align: center;
+}
+
+
+.m-b-md {
+    
+    margin-bottom: 10px;
+}
+
+.a1{
+    font-family: 'Sofia';
+    text-shadow: 0em;
+    text-decoration-color: blue;
+    margin-top:200px;
+    text-align:center;
+    font-size:300%;
+
+}
